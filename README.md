@@ -9,7 +9,11 @@ Mahindra Logistics:
 
 Problem statement - Given an image/document of a POD (Proof Of Delivery) predict whether it's clear/unclear. Also detect whether the important stamps and remarks are printed on the POD or not.
 
+Uploaded Mahindra_class and flask python files in reference with Mahindra Project.
+
 
 TATA Motors:
 
 Problem Statement - Given an RC of the vehicle of the 2 states. Extract the required information from that RC which is uploaded by the user on the bot.
+
+Uploaded tata_rc_ocr_class.py and tata_rc_ocr_flask.py files in referencing with TATA Project.
