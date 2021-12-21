@@ -7,4 +7,4 @@ Here I have done projects for clients Mahindra Logistics, TATA , sent-gobain and
 
 Mahindra Logistics:
 
-problem statement - Given an image/document of a POD (Proof Of Delivery) predict whether it's clear/unclear. The POD can be of jpg, jpeg or pdf formats.
+problem statement - Given an image/document of a POD (Proof Of Delivery) predict whether it's clear/unclear. Also detect whether the important stamps and remarks are printed on the POD or not.
